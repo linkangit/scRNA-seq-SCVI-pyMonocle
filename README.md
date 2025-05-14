@@ -1,13 +1,13 @@
 # PBMC Single-Cell RNA-seq Analysis Pipeline (scvi-tools + py_monocle edition)
 
 ## Cell-type with markers
-![Fig2](output_0_6.png)
+![Fig2](Results/output_0_6.png)
 
 ## Cluster marker genes
-![Fig1](output_0_8.png)
+![Fig1](Results/output_0_8.png)
 
 ## Pseudotime
-![Fig1](output_0_15.png)
+![Fig1](Results/output_0_15.png)
 
 ---
 
