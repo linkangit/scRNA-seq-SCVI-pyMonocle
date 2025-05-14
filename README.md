@@ -2,8 +2,7 @@
 
 ![Fig2](output_0_6.png)
 **Cell-type with markers**
-![Fig3](output_0_8.png)
-**Cluster marker genes**
+
 ![Fig1](output_0_15.png)
 **Pseudotime**
 
