@@ -1,6 +1,6 @@
 # PBMC Single-Cell RNA-seq Analysis Pipeline (scvi-tools + py_monocle edition)
-!{Figure: Psuedotime}(output_0_15.png)
-!{Figure: Cell-type markers}(output_0_6.png)
+![]{Figure: Psuedotime}(output_0_15.png)
+![]{Figure: Cell-type markers}(output_0_6.png)
 
 ---
 
