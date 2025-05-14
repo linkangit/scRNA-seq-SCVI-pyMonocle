@@ -1,6 +1,6 @@
 # PBMC Single-Cell RNA-seq Analysis Pipeline  
 **scvi-tools + py_monocle edition**
-(output_0_15.png)
+!(output_0_15.png)
 ---
 
 Welcome to a modern, reproducible, and highly customizable pipeline for single-cell RNA-seq (scRNA-seq) analysis. This workflow is designed to take you from raw 10x-style data downloads through to cell type annotation, differential expression, pseudo-bulk analysis, and pseudotime inference—all in a single script.
